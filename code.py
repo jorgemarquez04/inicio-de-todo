@@ -1,6 +1,6 @@
-name = "Dana"
-nickname = "Calvito"
-subname = "White"
+name = "Max"
+nickname = "BMF"
+subname = "Holloway"
 
 saludo = "Hola " + name + " " +  nickname + " " + subname + " Campeón del ligero"
 print (saludo)
