@@ -1,5 +1,5 @@
 name = "Max"
-nickname = "Blessed"
+nickname = "BMF"
 subname = "Holloway"
 
 saludo = "Hola " + name + " " +  nickname + " " + subname + " Campeón del ligero"
